@@ -1,5 +1,1 @@
-仓库说明
-
-
-
-测试和训练基本Git操作。
+Test and train basic Git operations.
